@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Operacoes</string>
+    <string name="value_a">Valor A:</string>
+    <string name="value_b">Valor B:</string>
+    <string name="value_result">Calcular Resultado</string>
+    <string name="title_value">App de Operações</string>
+</resources>

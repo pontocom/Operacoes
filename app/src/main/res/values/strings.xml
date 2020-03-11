@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Operacoes</string>
+    <string name="value_a">Value A:</string>
+    <string name="value_b">Value B:</string>
+    <string name="value_result">Compute Result</string>
+    <string name="title_value">Operations App</string>
+</resources>
